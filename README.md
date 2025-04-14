@@ -1,4 +1,2 @@
-### ***Hi there*** 👋
-
-✨ currently learning ✨
+✨ ***data this, data that*** ✨
 
